@@ -1,0 +1,21 @@
+{
+  "slack_token": "xoxp-qwertyuiop-REPLACE-ME-WITH-YOUR-APP-TOKEN",
+  "statuses": {
+    "Available": {
+      "text": "Fully available - how can I help?",
+      "emoji": "wave"
+    },
+    "Busy": {
+      "text": "Extremely busy right now. It might be a while before I respond.",
+      "emoji": "do-not-enter"
+    },
+    "Phone Call": {
+      "text": "On a phone call",
+      "emoji": "phone"
+    },
+    "Meeting": {
+      "text": "In a meeting",
+      "emoji": "calendar"
+    }
+  }
+}
