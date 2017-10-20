@@ -11,8 +11,8 @@ Designed for and tested on Ubuntu 14.04 LTS with Unity.  Probably works with oth
 ## Requirements
 
  - Python 3
- - `slackclient`
- - Whatever package `gi.repository` comes from
+ - `slackclient` from PyPi
+ - `python3-gi` from Ubuntu (`apt-get install python3-gi`)
  
 ## Usage
 
